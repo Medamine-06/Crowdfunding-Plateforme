@@ -1,0 +1,2 @@
+Sujet 4: Création d'une application de crowdfunding (financement participatif)
+Un site permettant aux créateurs et entrepreneurs de lancer des campagnes de financement participatif pour leurs projets. Les donateurs peuvent suivre l’évolution du projet et recevoir des mises à jour régulières.

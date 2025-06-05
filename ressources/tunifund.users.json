@@ -1,0 +1,114 @@
+[{
+  "_id": {
+    "$oid": "6815e334e0e0b57d2d2087b3"
+  },
+  "email": "admin@gmail.com",
+  "password": "$2b$14$8VoH7XXa45UG.t2LBCAgjOV13Hb7uteBHRO4FaQ3ioW9XtouLU/Cu",
+  "role": "admin",
+  "createdAt": {
+    "$date": "2025-05-03T09:34:44.875Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-03T09:34:44.875Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6815e5a46996d02cbae0d182"
+  },
+  "cin": 123,
+  "email": "test222@gmail.com",
+  "password": "$2b$14$QBTsICdQ1Zjz8rfnWLUOg.KSKaI6spoxOHFNceGYjQytuMB1fzKii",
+  "role": "user",
+  "createdAt": {
+    "$date": "2025-05-03T09:45:08.134Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-03T09:45:08.134Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6815e5fc6996d02cbae0d18b"
+  },
+  "cin": 1234,
+  "email": "sakli2@gmail.com",
+  "password": "$2b$14$grj30kv0K6nsn1..nHmzVePDK5uWTxYFMvcFtAnh99zXL0ma43zBq",
+  "role": "user",
+  "createdAt": {
+    "$date": "2025-05-03T09:46:36.674Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-03T09:46:36.674Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6815f103ceed80b2d714a4df"
+  },
+  "cin": 12300,
+  "email": "test2@gmail.com",
+  "password": "$2b$14$LZ1HAwq9qt/y7xbqBdRODeYdtHlqrIgNnpBDC1c0j.0fsU6KGOyf6",
+  "role": "user",
+  "createdAt": {
+    "$date": "2025-05-03T10:33:39.326Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-03T10:33:39.326Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6815f129ceed80b2d714a4e6"
+  },
+  "cin": 12310,
+  "email": "foulen@gmail.com",
+  "password": "$2b$14$lyWjLedFp/4nXINccWj.bedCt9WuEpPeCsfJ0ym1l7BO0YRVl84hq",
+  "role": "user",
+  "createdAt": {
+    "$date": "2025-05-03T10:34:17.355Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-03T10:34:17.355Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6815f19c2bd201c9b593aeaf"
+  },
+  "cin": 1212,
+  "lastName": "amine",
+  "email": "foulen2@gmail.com",
+  "password": "$2b$14$tuP2RFvZcXZ3lnQoXbNVauQnIfAoC36uzHHy4xwUlpogVzhkkaGJi",
+  "role": "user",
+  "createdAt": {
+    "$date": "2025-05-03T10:36:12.058Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-03T10:36:12.058Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "682dd9c921b5d3078d434619"
+  },
+  "cin": 12345,
+  "firstName": "med",
+  "lastName": "test",
+  "email": "med00@gmail.com",
+  "password": "$2b$14$EijiwwBuzS7JvRbITEi6NOE8cmznidJwPVMuCErVJ5vYMUECdhdCC",
+  "role": "user",
+  "createdAt": {
+    "$date": "2025-05-21T13:48:57.317Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-21T13:48:57.317Z"
+  },
+  "__v": 0
+}]

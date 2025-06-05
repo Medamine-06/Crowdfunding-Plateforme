@@ -1,0 +1,79 @@
+[{
+  "_id": {
+    "$oid": "6817a23983c0e1542c3415a3"
+  },
+  "title": "Solar Water Purifier",
+  "description": "A low-cost, solar-powered water purification system for rural areas.",
+  "goalAmount": 5000,
+  "image": "/assets/clean.jpg",
+  "category": "Agriculture",
+  "creator": {
+    "$oid": "6815e5fc6996d02cbae0d18b"
+  },
+  "isPublished": false,
+  "status": "rejected",
+  "deadline": {
+    "$date": "2025-12-31T00:00:00.000Z"
+  },
+  "currentAmount": 0,
+  "createdAt": {
+    "$date": "2025-05-04T17:22:01.720Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-04T17:51:13.692Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6817a54583c0e1542c3415b1"
+  },
+  "title": "Indie Music Album",
+  "description": "Help us fund the production and release of our debut indie music album.",
+  "goalAmount": 3000,
+  "image": "/assets/music.jpg",
+  "category": "Technology",
+  "creator": {
+    "$oid": "6815e5fc6996d02cbae0d18b"
+  },
+  "isPublished": false,
+  "status": "pending",
+  "deadline": {
+    "$date": "2025-09-10T00:00:00.000Z"
+  },
+  "currentAmount": 0,
+  "createdAt": {
+    "$date": "2025-05-04T17:35:01.496Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-04T17:35:01.496Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "682f12d4cf0d3c8d7a1f5804"
+  },
+  "title": "Street Art Revival",
+  "description": "Join us in transforming dull city walls into colorful murals by local artists. This project empowers urban creativity and gives artists the space to inspire their communities.",
+  "goalAmount": 4500,
+  "image": "https://example.com/street-art.jpg",
+  "category": "Arts & Culture",
+  "creator": {
+    "$oid": "682dd9c921b5d3078d434619"
+  },
+  "isPublished": false,
+  "status": "pending",
+  "deadline": {
+    "$date": "2025-10-15T00:00:00.000Z"
+  },
+  "currentAmount": 0,
+  "backers": 0,
+  "createdAt": {
+    "$date": "2025-05-22T12:04:36.833Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-22T12:04:36.833Z"
+  },
+  "__v": 0
+}]
